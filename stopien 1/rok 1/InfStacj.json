@@ -1,0 +1,149 @@
+[
+	[
+		{
+			"name": "Systemy Operacyjne 1",
+			"teacher": "dr inż Marcin Okap",
+			"class": "308 B4",
+			"startAt": "8:00",
+			"endAt": "9:30",
+			"type": "lab"
+		},
+		{
+			"name": "Bazy danych",
+			"teacher": "mgr inż Marcin Wajda",
+			"class": "308 B4",
+			"startAt": "9:45",
+			"endAt": "11:15",
+			"type": "lab"
+		},
+		[
+			{
+				"name": "Metody Numeryczne",
+				"teacher": "dr hab Mirosława Lato",
+				"class": "126 B1",
+				"startAt": "11:30",
+				"endAt": "13:00",
+				"week": "A",
+				"type": "wykład"
+			},
+			{
+				"name": "Teoria zbiorów rozmytych",
+				"teacher": "dr Anna Cesarzowa",
+				"class": "126 B1",
+				"startAt": "11:30",
+				"endAt": "13:00",
+				"week": "B",
+				"type": "wykład"
+			}
+		],
+		{
+			"name": "Algorytmy i Struktury Danych",
+			"teacher": "dr hab U. Bentkowska prof UR",
+			"class": "156 B2",
+			"startAt": "15:00",
+			"endAt": "16:30",
+			"week": "A",
+			"type": "ćwiczenia"
+		}
+	],
+	[
+		{
+			"name": "Programowanie obiektowe",
+			"teacher": "mgr inż Dorocia UwU🥺👉👈",
+			"class": "308 B4",
+			"startAt": "8:30",
+			"endAt": "11:00",
+			"type": "lab"
+		},
+		{
+			"name": "Metody Numeryczne",
+			"teacher": "dr nauk π w O Drygaś",
+			"class": "177 B2",
+			"startAt": "11:15",
+			"endAt": "12:45",
+			"type": "ćwiczenia"
+		},
+		{
+			"name": "Język na angielski",
+			"teacher": "mgr Magdalena Michniewicz",
+			"class": "231 B1",
+			"startAt": "13:00",
+			"endAt": "14:30",
+			"type": "ćwiczenia"
+		},
+		{
+			"name": "Teoria zbiorów rozmytych",
+			"teacher": "dr Anna Cesarzowa",
+			"class": "179 B2",
+			"startAt": "14:45",
+			"endAt": "16:15",
+			"week": "B",
+			"type": "ćwiczenia"
+		}
+	],
+	[
+		{
+			"name": "Matematyka dyskretna",
+			"teacher": "dr Edyta Trybucka",
+			"class": "248 B2",
+			"startAt": "9:00",
+			"endAt": "10:30",
+			"type": "ćwiczenia"
+		},
+		{
+			"name": "Rachunek prawdopodobieństwa",
+			"teacher": "dr Real Slim Shady",
+			"class": "266 B2",
+			"startAt": "10:45",
+			"endAt": "12:15",
+			"type": "ćwiczenia"
+		},
+		{
+			"name": "Programowanie obiektowe",
+			"teacher": "dr inż Wojciech Cap",
+			"class": "126 B1",
+			"startAt": "12:30",
+			"endAt": "15:00",
+			"type": "wykład"
+		}
+	],
+	[
+		[
+			{
+				"name": "Matematyka dyskretna",
+				"teacher": "dr Piotr git Push",
+				"class": "126 B1",
+				"startAt": "9:45",
+				"endAt": "11:15",
+				"week": "A",
+				"type": "wykład"
+			},
+			{
+				"name": "Rachunek Pradopodobieństwa",
+				"teacher": "dr Piotr Puch",
+				"class": "126 B1",
+				"startAt": "9:45",
+				"endAt": "11:15",
+				"week": "B",
+				"type": "wykład"
+			}
+		],
+
+		{
+			"name": "Algorytmy i Struktury Danych",
+			"teacher": "dr hab Jan G. Bażant prof. UR",
+			"class": "126 B1",
+			"startAt": "12:00",
+			"endAt": "13:30",
+			"type": "wykład"
+		},
+		{
+			"name": "Bazy danych",
+			"teacher": "dr hab. Barbara Pękala prof. UR",
+			"class": "126 B1",
+			"startAt": "13:45",
+			"endAt": "15:15",
+			"type": "wykład"
+		}
+	]
+]

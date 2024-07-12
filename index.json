@@ -1,0 +1,54 @@
+[
+	[
+		[
+			{
+				"name":"Informatyka - stacjonarne",
+				"path":"",
+				"groups":5
+			},
+			{
+				"name":"Informatyka i ekonometria - niestacjonarne",
+				"path":"",
+				"groups":"1"
+			}
+		],
+		[
+			{
+				"name":"Informatyka",
+				"path":"",
+				"groups":5
+			},
+			{
+				"name":"Informatyka i ekonometria",
+				"path":"",
+				"groups":"1"
+			}
+		]
+	],
+	[
+		[
+			{
+				"name":"Informatyka",
+				"path":"",
+				"groups":5
+			},
+			{
+				"name":"Informatyka i ekonometria",
+				"path":"",
+				"groups":"1"
+			}
+		],
+		[
+			{
+				"name":"Informatyka",
+				"path":"",
+				"groups":5
+			},
+			{
+				"name":"Informatyka i ekonometria",
+				"path":"",
+				"groups":"1"
+			}
+		]
+	]
+]
