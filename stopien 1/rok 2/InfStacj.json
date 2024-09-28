@@ -1,0 +1,155 @@
+{
+	"4":[
+	[
+		{
+			"name": "Algorytmy i Struktury Danych",
+			"teacher": "dr hab Jan G. Bażant prof. UR",
+			"class": "126 B1",
+			"startAt": "8:15",
+			"endAt": "9:45",
+			"type": "wykład"
+		},
+		[
+			{
+				"name": "Programowanie w języku python",
+				"teacher": "dr inż Michał Kępski",
+				"class": "126 B1",
+				"startAt": "10:00",
+				"endAt": "11:30",
+				"week": "A",
+				"type": "wykład"
+			},
+			{
+				"name": "Bazy danych",
+				"teacher": "dr inż Dariusz Bober",
+				"class": "126 B1",
+				"startAt": "10:00",
+				"endAt": "11:30",
+				"week": "B",
+				"type": "wykład"
+			}
+		],
+		{
+			"name": "Technologie informacyjne",
+			"teacher": "dr Krzysztof Balicki",
+			"class": "126 B1",
+			"startAt": "11:45",
+			"endAt": "13:15",
+			"week": "A",
+			"type": "wykład"
+		},
+		{
+			"name": "Technologie informacyjne",
+			"teacher": "dr inż Dariusz Bober",
+			"class": "Zdalnie",
+			"startAt": "16:30",
+			"endAt": "18:00",
+			"week": "A",
+			"type": "wykład"
+		}
+	],
+	[
+		{
+			"name": "Technologie internetowe",
+			"teacher": "dr Katarzyna Garwol",
+			"class": "241 B1",
+			"startAt": "10:00",
+			"endAt": "11:30",
+			"type": "lab"
+		},
+		{
+			"name": "Sieci komputerowe",
+			"teacher": "mgr inż Jaromir Szkoła",
+			"class": "177 B2",
+			"startAt": "11:45",
+			"endAt": "13:15",
+			"type": "ćwiczenia"
+		},
+		[
+			{
+				"name": "Sieci komputerowe",
+				"teacher": "mgr inż Jaromir Szkoła",
+				"class": "126 B1",
+				"startAt": "13:30",
+				"endAt": "15:00",
+				"week":"A",
+				"type": "wykład 15 godz"
+			},
+			{
+				"name": "Rachunek prawdopodobieństwa i statystyka",
+				"teacher": "dr Lech Zaręba",
+				"class": "126 B1",
+				"startAt": "13:30",
+				"endAt": "15:00",
+				"week": "B",
+				"type": "ćwiczenia"
+			}
+		]
+	],
+	[
+		{
+			"name": "WF",
+			"teacher": "nie wiem",
+			"class": "Zalesie",
+			"startAt": "7:00",
+			"endAt": "8:30",
+			"type": "ćwiczenia"
+		},
+		{
+			"name": "Rachunek prawdopodobieństwa i statystyka",
+			"teacher": "dr Anna Król 12godz \n dr Lech Zaręba 6 godz",
+			"class": "108 B1",
+			"startAt": "9:45",
+			"endAt": "11:15",
+			"type": "lab"
+		},
+		{
+			"name": "Bazy danych",
+			"teacher": "mgr inż Aleksander Wojtowicz",
+			"class": "108 B1",
+			"startAt": "11:30",
+			"endAt": "13:00",
+			"type": "lab"
+		},
+		[
+			{
+				"name": "Metody numeryczne",
+				"teacher": "dr Ewa Rak",
+				"class": "107 B4",
+				"startAt": "13:15",
+				"endAt": "14:45",
+				"week":"A",
+				"type": "lab"
+			},
+			{
+				"name": "Programowanie w języku python",
+				"teacher": "mgr inż Adrian Cwiąkała",
+				"class": "107 B4",
+				"startAt": "12:30",
+				"week":"B",
+				"endAt": "15:00",
+				"type": "lab"
+			}
+		]
+	],
+	[
+
+		{
+			"name": "Język Angielski",
+			"teacher": "mgr Magdalena Michniewicz",
+			"class": "231 B1",
+			"startAt": "8:45",
+			"endAt": "10:15",
+			"type": "ćwiczenia"
+		},
+		{
+			"name": "Algorytmy i Struktury Danych",
+			"teacher": "mgr inż Adrian Cwiąkała",
+			"class": "308 B4",
+			"startAt": "10:30",
+			"endAt": "12:00",
+			"type": "lab"
+		}
+	]
+]
+}
