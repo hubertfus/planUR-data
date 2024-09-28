@@ -4,13 +4,13 @@
 			{
 				"name":"",
 				"path":"",
-				"groups":5
+				"groups":0
 			}
 		],
 		[
 			{
 				"name":"Informatyka - stacjonarne",
-				"path":"https://raw.githubusercontent.com/hubertfus/planUR-data/main/stopien%201/rok%201/InfStacj.json",
+				"path":"https://raw.githubusercontent.com/hubertfus/planUR-data/main/stopien%201/rok%202/InfStacj.json",
 				"groups":5
 			}
 			
@@ -21,14 +21,14 @@
 			{
 				"name":"",
 				"path":"",
-				"groups":5
+				"groups":0
 			}
 		],
 		[
 			{
 				"name":"",
 				"path":"",
-				"groups":5
+				"groups":0
 			}
 		]
 	]
