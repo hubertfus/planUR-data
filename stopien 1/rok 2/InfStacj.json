@@ -30,7 +30,7 @@
 			}
 		],
 		{
-			"name": "Technologie informacyjne",
+			"name": "Technologie internetowe",
 			"teacher": "dr Krzysztof Balicki",
 			"class": "126 B1",
 			"startAt": "11:45",
@@ -39,7 +39,15 @@
 			"type": "wykład"
 		},
 		{
-			"name": "Technologie informacyjne",
+			"name": "WF",
+			"teacher": "nie wiem",
+			"class": "Zalesie",
+			"startAt": "14:30",
+			"endAt": "16:00",
+			"type": "ćwiczenia"
+		},
+		{
+			"name": "Bazy Danych",
 			"teacher": "dr inż Dariusz Bober",
 			"class": "Zdalnie",
 			"startAt": "16:30",
@@ -60,7 +68,7 @@
 		{
 			"name": "Sieci komputerowe",
 			"teacher": "mgr inż Jaromir Szkoła",
-			"class": "177 B2",
+			"class": "241 B1",
 			"startAt": "11:45",
 			"endAt": "13:15",
 			"type": "ćwiczenia"
@@ -87,14 +95,6 @@
 		]
 	],
 	[
-		{
-			"name": "WF",
-			"teacher": "nie wiem",
-			"class": "Zalesie",
-			"startAt": "7:00",
-			"endAt": "8:30",
-			"type": "ćwiczenia"
-		},
 		{
 			"name": "Rachunek prawdopodobieństwa i statystyka",
 			"teacher": "dr Anna Król 12godz \n dr Lech Zaręba 6 godz",
