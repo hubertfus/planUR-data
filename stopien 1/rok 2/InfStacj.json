@@ -113,23 +113,24 @@
 		},
 		[
 			{
+				"name": "Programowanie w języku python",
+				"teacher": "mgr inż Adrian Cwiąkała",
+				"class": "107 B4",
+				"startAt": "12:30",
+				"week":"A",
+				"endAt": "15:00",
+				"type": "lab"
+			},
+			{
 				"name": "Metody numeryczne",
 				"teacher": "dr Ewa Rak",
 				"class": "107 B4",
 				"startAt": "13:15",
 				"endAt": "14:45",
-				"week":"A",
-				"type": "lab"
-			},
-			{
-				"name": "Programowanie w języku python",
-				"teacher": "mgr inż Adrian Cwiąkała",
-				"class": "107 B4",
-				"startAt": "12:30",
 				"week":"B",
-				"endAt": "15:00",
 				"type": "lab"
 			}
+	
 		]
 	],
 	[
