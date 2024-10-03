@@ -68,6 +68,14 @@
 	],
 	[
 		{
+			"name": "Algorytmy i Struktury Danych",
+			"teacher": "mgr inż Adrian Cwiąkała",
+			"class": "308 B4",
+			"startAt": "8:15",
+			"endAt": "9:45",
+			"type": "lab"
+		},
+		{
 			"name": "Technologie internetowe",
 			"teacher": "dr Katarzyna Garwol",
 			"class": "241 B1",
@@ -154,13 +162,14 @@
 			"type": "ćwiczenia"
 		},
 		{
-			"name": "Algorytmy i Struktury Danych",
-			"teacher": "mgr inż Adrian Cwiąkała",
-			"class": "308 B4",
-			"startAt": "10:30",
-			"endAt": "12:00",
-			"type": "lab"
-		}
+			"name": "Przedmiot ogólnouczelniany",
+			"teacher": "u każdego kto inny",
+			"class": "Zdalnie",
+			"startAt": "16:00",
+			"endAt": "19:30",
+			"week":"B",
+			"type": "wykład"
+		},
 	]
 ]
 }
