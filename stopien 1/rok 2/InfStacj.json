@@ -46,15 +46,25 @@
 			"endAt": "16:00",
 			"type": "ćwiczenia"
 		},
-		[{
-			"name": "Bazy Danych",
-			"teacher": "dr inż Dariusz Bober",
-			"class": "Zdalnie",
-			"startAt": "16:30",
-			"endAt": "18:00",
-			"week": "A",
-			"type": "wykład"
-		},{}]
+		[
+			{
+				"name": "Bazy Danych",
+				"teacher": "dr inż Dariusz Bober",
+				"class": "Zdalnie",
+				"startAt": "16:30",
+				"endAt": "18:00",
+				"week": "A",
+				"type": "wykład"
+			},{
+				"name": "tej aplikacji",
+				"teacher": "Jest debilem",
+				"class": "tu nic nie powino być",
+				"startAt": "X",
+				"endAt": "D",
+				"week": "B",
+				"type": "Autor"
+			}
+		]
 	],
 	[
 		{
