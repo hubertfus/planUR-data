@@ -46,7 +46,7 @@
 			"endAt": "16:00",
 			"type": "ćwiczenia"
 		},
-		{
+		[{
 			"name": "Bazy Danych",
 			"teacher": "dr inż Dariusz Bober",
 			"class": "Zdalnie",
@@ -54,7 +54,7 @@
 			"endAt": "18:00",
 			"week": "A",
 			"type": "wykład"
-		}
+		}]
 	],
 	[
 		{
