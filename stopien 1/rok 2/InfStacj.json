@@ -1,169 +1,211 @@
 {
-	"4":[
-        [
-            {
-                "name": "Algorytmy i Struktury Danych",
-                "teacher": "dr hab Jan G. Bażant prof. UR",
-                "class": "126 B1",
-                "startAt": "8:15",
-                "endAt": "9:45",
-                "type": "wykład"
-            },
-            [
-                {
-                    "name": "Programowanie w języku python",
-                    "teacher": "dr inż Michał Kępski",
-                    "class": "126 B1",
-                    "startAt": "10:00",
-                    "endAt": "11:30",
-                    "week": "A",
-                    "type": "wykład"
-                },
-                {
-                    "name": "Bazy danych",
-                    "teacher": "dr inż Dariusz Bober",
-                    "class": "126 B1",
-                    "startAt": "10:00",
-                    "endAt": "11:30",
-                    "week": "B",
-                    "type": "wykład"
-                }
-            ],
-            [
-		{
-	                "name": "Technologie internetowe",
-	                "teacher": "dr Krzysztof Balicki",
-	                "class": "126 B1",
-	                "startAt": "11:45",
-	                "endAt": "13:15",
-	                "week": "A",
-	                "type": "wykład"
-	            }
-	    ],
-            {
-                "name": "WF",
-                "teacher": "nie wiem",
-                "class": "Zalesie",
-                "startAt": "14:30",
-                "endAt": "16:00",
-                "type": "ćwiczenia"
-            },
-            [
-		{
-                    "name": "tej aplikacji",
-                    "teacher": "Jest debilem",
-                    "class": "tu nic nie powino być",
-                    "startAt": "X",
-                    "endAt": "D",
-                    "week": "B",
-                    "type": "Autor"
-                }
-            ]
-        ],
-        [
-            {
-                "name": "Algorytmy i Struktury Danych",
-                "teacher": "mgr inż Adrian Cwiąkała",
-                "class": "308 B4",
-                "startAt": "8:15",
-                "endAt": "9:45",
-                "type": "lab"
-            },
-            {
-                "name": "Technologie internetowe",
-                "teacher": "dr Katarzyna Garwol",
-                "class": "241 B1",
-                "startAt": "10:00",
-                "endAt": "11:30",
-                "type": "lab"
-            },
-            {
-                "name": "Sieci komputerowe",
-                "teacher": "mgr inż Jaromir Szkoła",
-                "class": "241 B1",
-                "startAt": "11:45",
-                "endAt": "13:15",
-                "type": "ćwiczenia"
-            },
-            [
-                {
-                    "name": "Sieci komputerowe",
-                    "teacher": "mgr inż Jaromir Szkoła",
-                    "class": "126 B1",
-                    "startAt": "13:30",
-                    "endAt": "15:00",
-                    "week":"A",
-                    "type": "wykład 15 godz"
-                },
-                {
-                    "name": "Rachunek prawdopodobieństwa i statystyka",
-                    "teacher": "dr Lech Zaręba",
-                    "class": "126 B1",
-                    "startAt": "13:30",
-                    "endAt": "15:00",
-                    "week": "B",
-                    "type": "ćwiczenia"
-                }
-            ]
-        ],
-        [
-            {
-                "name": "Rachunek prawdopodobieństwa i statystyka",
-                "teacher": "dr Anna Król 12godz \n dr Lech Zaręba 6 godz",
-                "class": "108 B4",
-                "startAt": "9:45",
-                "endAt": "11:15",
-                "type": "lab"
-            },
-            {
-                "name": "Bazy danych",
-                "teacher": "mgr inż Aleksander Wojtowicz",
-                "class": "108 B4",
-                "startAt": "11:30",
-                "endAt": "13:00",
-                "type": "lab"
-            },
-            [
-                {
-                    "name": "Programowanie w języku python",
-                    "teacher": "mgr inż Adrian Cwiąkała",
-                    "class": "107 B4",
-                    "startAt": "13:15",
-                    "endAt": "14:45",
-                    "week":"A",
-                    "type": "lab"
-                },
-                {
-                    "name": "Metody numeryczne",
-                    "teacher": "dr Ewa Rak",
-                    "class": "107 B4",
-                    "startAt": "13:15",
-                    "endAt": "14:45",
-                    "week":"B",
-                    "type": "lab"
-                }
-        
-            ]
-        ],
-        [
-
-            {
-                "name": "Język Angielski",
-                "teacher": "mgr Magdalena Michniewicz",
-                "class": "231 B1",
-                "startAt": "8:45",
-                "endAt": "10:15",
-                "type": "ćwiczenia"
-            },
-            {
-                "name": "Przedmiot ogólnouczelniany",
-                "teacher": "u każdego kto inny",
-                "class": "Zdalnie",
-                "startAt": "16:00",
-                "endAt": "19:30",
-                "week":"B",
-                "type": "wykład"
-            }
-        ]
-    ]
+  a: [
+    [
+      [
+        {
+          name: "Cyberbezpieczeństwo",
+          teacher: "dr inż. Marcin Ochab",
+          class: "126 B1",
+          startAt: "8:00",
+          endAt: "9:30",
+          type: "wykład",
+          week: "A",
+        },
+      ],
+      [
+        {
+          name: "Wstęp do ekspolracji danych (WEDED) 12h",
+          teacher: "dr Wojciech Rząsa",
+          class: "126 B1",
+          startAt: "9:45",
+          endAt: "11:15",
+          week: "A",
+          type: "wykład",
+        },
+        {
+          name: "Biometryczne systemy zabezpieczeń",
+          teacher: "dr Zbigniew Gomółka",
+          class: "126 B1",
+          startAt: "9:45",
+          endAt: "11:15",
+          week: "B",
+          type: "wykład",
+        },
+      ],
+      {
+        name: "Sztuczna inteligencja",
+        teacher: "dr Krzysztof Balicki",
+        class: "126 B1",
+        startAt: "11:30",
+        endAt: "13:00",
+        type: "ćwiczenia",
+      },
+      {
+        name: "WF",
+        teacher: "nie wiem",
+        class: "Zalesie",
+        startAt: "14:30",
+        endAt: "16:00",
+        type: "ćwiczenia",
+      },
+      [
+        {
+          name: "Programowanie obiektowe 2",
+          teacher: "dr inż. Wojciech Kozioł",
+          class: "167 B2",
+          startAt: "16:30",
+          endAt: "18:00",
+          week: "A",
+          type: "wykład",
+        },
+        {
+          name: "Aplikacje inernetowe",
+          teacher: "dr inż. Piotr Grochowalski",
+          class: "167 B2",
+          startAt: "16:30",
+          endAt: "18:00",
+          week: "B",
+          type: "wykład",
+        },
+      ],
+    ],
+    [
+      [
+        {
+          name: "Sztuczna intelig.",
+          teacher: "mgr inż Adrian Cwiąkała",
+          class: "308 B4",
+          startAt: "9:45",
+          endAt: "11:15",
+          type: "lab",
+          week: "B",
+        },
+        {
+          name: "WDED",
+          teacher: "dr Wojciech Rząsa",
+          class: "308 B4",
+          startAt: "9:45",
+          endAt: "11:15",
+          type: "lab",
+          week: "A",
+        },
+      ],
+      {
+        name: "Projektowanie interfejsów użytkownika 25h",
+        teacher: "dr hab.inż. Wiesław Paja, prof. UR",
+        class: "s.308 B4",
+        startAt: "11:30",
+        endAt: "13:00",
+        type: "lab",
+      },
+      {
+        name: "Biometryczne systemy",
+        teacher: "dr Zbigniew Gomółka",
+        class: "s.217 B1 ",
+        startAt: "13:15",
+        endAt: "14:45",
+        type: "lab",
+      },
+      {
+        name: "Projektowanie inerfejsów użytkownika",
+        teacher: "dr hab. inż. Wiesław Paja, prof. UR",
+        class: "126 B1",
+        startAt: "15:00",
+        endAt: "16:30",
+        type: "wykład",
+      },
+    ],
+    [
+      {
+        name: "Sztuczna inteligencja 20h",
+        teacher: "dr Wojciech Rząsa",
+        class: "126 B1",
+        startAt: "11:45",
+        endAt: "13:15",
+        type: "lab",
+      },
+      {
+        name: "Programowanie w języku Python",
+        teacher: "mgr inż Aleksander Wojtowicz",
+        class: "207 B4",
+        startAt: "13:45",
+        endAt: "15:15",
+        type: "lab",
+      },
+      {
+        name: "Programowanie obiektowe 2",
+        teacher: "mgr inż. Wojciech Gałka",
+        class: "207 B4",
+        startAt: "15:30",
+        endAt: "17:00",
+        type: "lab",
+      },
+      {
+        name: "Aplikacje internetowe",
+        teacher: "mgr inż. Jaromir Sarzyński",
+        class: "207 B4",
+        startAt: "17:15",
+        endAt: "18:45",
+        type: "lab",
+      },
+    ],
+    [
+      [
+        {
+          name: "Architektura systemów komputerowych",
+          teacher: "dr Krzysztof Balicki",
+          class: "167 B2",
+          startAt: "8:00",
+          endAt: "9:30",
+          type: "wykład",
+          week: "A",
+        },
+        {
+          name: "Teoria zbiorów rozmytych 2 (TZR 2)",
+          teacher: "dr hab. Barbara Pękala, prof. UR",
+          class: "167 B2",
+          startAt: "8:00",
+          endAt: "9:30",
+          type: "wykład",
+          week: "B",
+        },
+      ],
+      {
+        name: "Architektura systemów komputerowych",
+        teacher: "dr Krzysztof Balicki",
+        class: "207 B4",
+        startAt: "9:45",
+        endAt: "11:15",
+        type: "lab",
+      },
+      [
+        {
+          name: "TZR 2",
+          teacher: "dr hab. B.Pękala, prof. UR",
+          class: "207 B4",
+          startAt: "11:30",
+          endAt: "13:00",
+          type: "lab",
+          week: "B",
+        },
+        {
+          name: "Cyberbezp.",
+          teacher: "mgr inż. J.Sarzyński",
+          class: "207 B4",
+          startAt: "11:30",
+          endAt: "13:00",
+          type: "lab",
+          week: "A",
+        },
+      ],
+      {
+        name: "Język angielski",
+        teacher: "mgr Magdalena Michniewicz",
+        class: "251 B24",
+        startAt: "13:15",
+        endAt: "14:45",
+        type: "ćwiczenia",
+      },
+    ],
+  ];
 }
