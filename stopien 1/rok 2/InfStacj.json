@@ -9,8 +9,8 @@
           "startAt": "8:00",
           "endAt": "9:30",
           "type": "wykład",
-          "week": "A",
-        },
+          "week": "A"
+        }
       ],
       [
         {
@@ -20,7 +20,7 @@
           "startAt": "9:45",
           "endAt": "11:15",
           "week": "A",
-          "type": "wykład",
+          "type": "wykład"
         },
         {
           "name": "Biometryczne systemy zabezpieczeń",
@@ -29,8 +29,8 @@
           "startAt": "9:45",
           "endAt": "11:15",
           "week": "B",
-          "type": "wykład",
-        },
+          "type": "wykład"
+        }
       ],
       {
         "name": "Sztuczna inteligencja",
@@ -38,7 +38,7 @@
         "class": "126 B1",
         "startAt": "11:30",
         "endAt": "13:00",
-        "type": "ćwiczenia",
+        "type": "ćwiczenia"
       },
       {
         "name": "WF",
@@ -46,7 +46,7 @@
         "class": "Zalesie",
         "startAt": "14:30",
         "endAt": "16:00",
-        "type": "ćwiczenia",
+        "type": "ćwiczenia"
       },
       [
         {
@@ -56,7 +56,7 @@
           "startAt": "16:30",
           "endAt": "18:00",
           "week": "A",
-          "type": "wykład",
+          "type": "wykład"
         },
         {
           "name": "Aplikacje inernetowe",
@@ -65,9 +65,9 @@
           "startAt": "16:30",
           "endAt": "18:00",
           "week": "B",
-          "type": "wykład",
-        },
-      ],
+          "type": "wykład"
+        }
+      ]
     ],
     [
       [
@@ -78,7 +78,7 @@
           "startAt": "9:45",
           "endAt": "11:15",
           "type": "lab",
-          "week": "B",
+          "week": "B"
         },
         {
           "name": "WDED",
@@ -87,8 +87,8 @@
           "startAt": "9:45",
           "endAt": "11:15",
           "type": "lab",
-          "week": "A",
-        },
+          "week": "A"
+        }
       ],
       {
         "name": "Projektowanie interfejsów użytkownika 25h",
@@ -96,7 +96,7 @@
         "class": "s.308 B4",
         "startAt": "11:30",
         "endAt": "13:00",
-        "type": "lab",
+        "type": "lab"
       },
       {
         "name": "Biometryczne systemy",
@@ -104,7 +104,7 @@
         "class": "s.217 B1 ",
         "startAt": "13:15",
         "endAt": "14:45",
-        "type": "lab",
+        "type": "lab"
       },
       {
         "name": "Projektowanie inerfejsów użytkownika",
@@ -112,8 +112,8 @@
         "class": "126 B1",
         "startAt": "15:00",
         "endAt": "16:30",
-        "type": "wykład",
-      },
+        "type": "wykład"
+      }
     ],
     [
       {
@@ -122,7 +122,7 @@
         "class": "126 B1",
         "startAt": "11:45",
         "endAt": "13:15",
-        "type": "lab",
+        "type": "lab"
       },
       {
         "name": "Programowanie w języku Python",
@@ -130,7 +130,7 @@
         "class": "207 B4",
         "startAt": "13:45",
         "endAt": "15:15",
-        "type": "lab",
+        "type": "lab"
       },
       {
         "name": "Programowanie obiektowe 2",
@@ -138,7 +138,7 @@
         "class": "207 B4",
         "startAt": "15:30",
         "endAt": "17:00",
-        "type": "lab",
+        "type": "lab"
       },
       {
         "name": "Aplikacje internetowe",
@@ -146,8 +146,8 @@
         "class": "207 B4",
         "startAt": "17:15",
         "endAt": "18:45",
-        "type": "lab",
-      },
+        "type": "lab"
+      }
     ],
     [
       [
@@ -158,7 +158,7 @@
           "startAt": "8:00",
           "endAt": "9:30",
           "type": "wykład",
-          "week": "A",
+          "week": "A"
         },
         {
           "name": "Teoria zbiorów rozmytych 2 (TZR 2)",
@@ -167,8 +167,8 @@
           "startAt": "8:00",
           "endAt": "9:30",
           "type": "wykład",
-          "week": "B",
-        },
+          "week": "B"
+        }
       ],
       {
         "name": "Architektura systemów komputerowych",
@@ -176,7 +176,7 @@
         "class": "207 B4",
         "startAt": "9:45",
         "endAt": "11:15",
-        "type": "lab",
+        "type": "lab"
       },
       [
         {
@@ -186,7 +186,7 @@
           "startAt": "11:30",
           "endAt": "13:00",
           "type": "lab",
-          "week": "B",
+          "week": "B"
         },
         {
           "name": "Cyberbezp.",
@@ -195,8 +195,8 @@
           "startAt": "11:30",
           "endAt": "13:00",
           "type": "lab",
-          "week": "A",
-        },
+          "week": "A"
+        }
       ],
       {
         "name": "Język angielski",
@@ -204,7 +204,7 @@
         "class": "251 B24",
         "startAt": "13:15",
         "endAt": "14:45",
-        "type": "ćwiczenia",
+        "type": "ćwiczenia"
       }
     ]
   ]
