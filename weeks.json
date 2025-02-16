@@ -1,82 +1,18 @@
 [
-    {
-      "type": "A",
-      "start_date": "17.02.2025",
-      "end_date": "23.02.2025"
-    },
-    {
-      "type": "B",
-      "start_date": "24.02.2025",
-      "end_date": "2.03.2025"
-    },
-    {
-      "type": "A",
-      "start_date": "3.03.2025",
-      "end_date": "9.03.2025"
-    },
-    {
-      "type": "B",
-      "start_date": "10.03.2025",
-      "end_date": "16.03.2025"
-    },
-    {
-      "type": "A",
-      "start_date": "17.03.2025",
-      "end_date": "23.03.2025"
-    },
-    {
-      "type": "B",
-      "start_date": "24.03.2025",
-      "end_date": "30.03.2025"
-    },
-    {
-      "type": "A",
-      "start_date": "31.03.2025",
-      "end_date": "6.04.2025"
-    },
-    {
-      "type": "B",
-      "start_date": "7.04.2025",
-      "end_date": "13.04.2025"
-    },
-    {
-      "type": "A",
-      "start_date": "14.04.2025",
-      "end_date": "16.04.2025"
-    },
-    {
-      "type": "A",
-      "start_date": "24.04.2025",
-      "end_date": "27.04.2025"
-    },
-    {
-      "type": "B",
-      "start_date": "28.04.2025",
-      "end_date": "4.05.2025"
-    },
-    {
-      "type": "A",
-      "start_date": "5.05.2025",
-      "end_date": "11.05.2025"
-    },
-    {
-      "type": "B",
-      "start_date": "12.05.2025",
-      "end_date": "18.05.2025"
-    },
-    {
-      "type": "A",
-      "start_date": "19.05.2025",
-      "end_date": "25.05.2025"
-    },
-    {
-      "type": "B",
-      "start_date": "26.05.2025",
-      "end_date": "1.06.2025"
-    },
-    {
-      "type": "A",
-      "start_date": "2.06.2025",
-      "end_date": "8.06.2025"
-    }
-  ]
+  { "type": "A", "start_date": "2025-02-17", "end_date": "2025-02-23" },
+  { "type": "B", "start_date": "2025-02-24", "end_date": "2025-03-02" },
+  { "type": "A", "start_date": "2025-03-03", "end_date": "2025-03-09" },
+  { "type": "B", "start_date": "2025-03-10", "end_date": "2025-03-16" },
+  { "type": "A", "start_date": "2025-03-17", "end_date": "2025-03-23" },
+  { "type": "B", "start_date": "2025-03-24", "end_date": "2025-03-30" },
+  { "type": "A", "start_date": "2025-03-31", "end_date": "2025-04-06" },
+  { "type": "B", "start_date": "2025-04-07", "end_date": "2025-04-13" },
+  { "type": "A", "start_date": "2025-04-14", "end_date": "2025-04-16" },
+  { "type": "A", "start_date": "2025-04-24", "end_date": "2025-04-27" },
+  { "type": "B", "start_date": "2025-04-28", "end_date": "2025-05-04" },
+  { "type": "A", "start_date": "2025-05-05", "end_date": "2025-05-11" },
+  { "type": "B", "start_date": "2025-05-12", "end_date": "2025-05-18" },
+  { "type": "A", "start_date": "2025-05-19", "end_date": "2025-05-25" },
+  { "type": "B", "start_date": "2025-05-26", "end_date": "2025-06-01" },
+  { "type": "A", "start_date": "2025-06-02", "end_date": "2025-06-08" }
+]
