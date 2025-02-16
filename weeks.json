@@ -1,77 +1,82 @@
 [
     {
       "type": "A",
-      "start_date": "2024-10-01",
-      "end_date": "2024-10-06"
+      "start_date": "17.02.2025",
+      "end_date": "23.02.2025"
     },
     {
       "type": "B",
-      "start_date": "2024-10-07",
-      "end_date": "2024-10-13"
+      "start_date": "24.02.2025",
+      "end_date": "2.03.2025"
     },
     {
       "type": "A",
-      "start_date": "2024-10-14",
-      "end_date": "2024-10-20"
+      "start_date": "3.03.2025",
+      "end_date": "9.03.2025"
     },
     {
       "type": "B",
-      "start_date": "2024-10-21",
-      "end_date": "2024-10-27"
+      "start_date": "10.03.2025",
+      "end_date": "16.03.2025"
     },
     {
       "type": "A",
-      "start_date": "2024-10-28",
-      "end_date": "2024-11-03"
+      "start_date": "17.03.2025",
+      "end_date": "23.03.2025"
     },
     {
       "type": "B",
-      "start_date": "2024-11-04",
-      "end_date": "2024-11-10"
+      "start_date": "24.03.2025",
+      "end_date": "30.03.2025"
     },
     {
       "type": "A",
-      "start_date": "2024-11-11",
-      "end_date": "2024-11-17"
+      "start_date": "31.03.2025",
+      "end_date": "6.04.2025"
     },
     {
       "type": "B",
-      "start_date": "2024-11-18",
-      "end_date": "2024-11-24"
+      "start_date": "7.04.2025",
+      "end_date": "13.04.2025"
     },
     {
       "type": "A",
-      "start_date": "2024-11-25",
-      "end_date": "2024-12-01"
+      "start_date": "14.04.2025",
+      "end_date": "16.04.2025"
+    },
+    {
+      "type": "A",
+      "start_date": "24.04.2025",
+      "end_date": "27.04.2025"
     },
     {
       "type": "B",
-      "start_date": "2024-12-02",
-      "end_date": "2024-12-08"
+      "start_date": "28.04.2025",
+      "end_date": "4.05.2025"
     },
     {
       "type": "A",
-      "start_date": "2024-12-09",
-      "end_date": "2024-12-15"
+      "start_date": "5.05.2025",
+      "end_date": "11.05.2025"
     },
     {
       "type": "B",
-      "start_date": "2024-12-16",
-      "end_date": "2024-12-22"
+      "start_date": "12.05.2025",
+      "end_date": "18.05.2025"
     },
     {
       "type": "A",
-      "start_date": "2025-01-07",
-      "end_date": "2025-01-12"
+      "start_date": "19.05.2025",
+      "end_date": "25.05.2025"
     },
     {
       "type": "B",
-      "start_date": "2025-01-13",
-      "end_date": "2025-01-19"
+      "start_date": "26.05.2025",
+      "end_date": "1.06.2025"
     },
     {
       "type": "A",
-      "start_date": "2025-01-20",
-      "end_date": "2025-01-26"
+      "start_date": "2.06.2025",
+      "end_date": "8.06.2025"
     }
   ]
