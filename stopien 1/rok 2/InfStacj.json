@@ -38,16 +38,7 @@
 	                "endAt": "13:15",
 	                "week": "A",
 	                "type": "wykład"
-	            },
-		    {
-	                    "name": "tej aplikacji",
-	                    "teacher": "Jest debilem",
-	                    "class": "tu nic nie powino być",
-	                    "startAt": "X",
-	                    "endAt": "D",
-	                    "week": "B",
-	                    "type": "Autor"
-		    }
+	            }
 	    ],
             {
                 "name": "WF",
